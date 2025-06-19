@@ -1,9 +1,6 @@
-# Time-series-prediction
-A time-series forecasting model using a Long Short-Term Memory (LSTM) network to predict future request volumes based on historical hourly data. This project demonstrates the process of data loading, preprocessing, model training, and prediction for time-series data.
-
 # LSTM Time-Series Forecasting for Request Volume
 
-This project is a practical implementation of a Long Short-Term Memory (LSTM) recurrent neural network for time-series forecasting. The model is trained on historical hourly request data to predict future request volumes for the next 600 hours.
+This project is a practical implementation of a Long Short-Term Memory (LSTM) recurrent neural network for time-series forecasting. The model is trained on historical hourly request data to predict future request volumes for the next 600 hours. This was made as a part of my internship at Zoho which would help them optimize resource management and ensure service reliability.
 
 ## About The Project
 
